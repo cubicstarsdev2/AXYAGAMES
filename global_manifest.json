@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "Repository": "cubicstarsdev2/AXYAGAMES",
+  "Games": [
+    {
+      "Name": "Need For Speed: Underground",
+      "IdentifierSha256": "5f4a8ea964b31a077445167b542fa031e53a0710344e1b1ed05dcbed572fdbdb",
+      "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/28540e846d374ab71f7133af20f20dad76c962e3/games/NFSU/download_manifest.json",
+      "DownloadManifestSha256": "c1d0e9aac872625d0ff2f9dd8c7813aca2b4cc4826d4d1e693c4c71dcf793ac2",
+      "UpdatedUtc": "2026-10-19T19:51:49.0728162\u002B00:00",
+      "Images": {
+        "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/icon.png",
+        "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/card.png",
+        "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/hero.png",
+        "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/logo.png"
+      }
+    }
+  ]
+}
