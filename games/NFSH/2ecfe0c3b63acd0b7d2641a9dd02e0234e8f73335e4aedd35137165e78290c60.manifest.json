@@ -1,8 +1,8 @@
 {
   "Name": "Need For Speed: Heat",
   "IdentifierSha256": "2ecfe0c3b63acd0b7d2641a9dd02e0234e8f73335e4aedd35137165e78290c60",
-  "SourceDirectory": "",
-  "exec_path_local": "",
+  "SourceDirectory": "D:\\Games\\Need for Speed Heat",
+  "exec_path_local": "Need For Speed_ Heat/NeedForSpeedHeat.exe",
   "ArchiveFormat": ".axyagc",
   "PartExtension": ".axyachk",
   "CreatedUtc": "2026-10-19T20:41:02.7729386\u002B00:00",
