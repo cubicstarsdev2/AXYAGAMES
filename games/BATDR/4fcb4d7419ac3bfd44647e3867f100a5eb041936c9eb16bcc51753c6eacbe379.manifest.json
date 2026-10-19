@@ -1,0 +1,523 @@
+{
+  "Name": "Bendy and the Dark Revival",
+  "IdentifierSha256": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379",
+  "SourceDirectory": "",
+  "exec_path_local": "Bendy and the Dark Revival/Bendy and the Dark Revival.exe",
+  "ArchiveFormat": ".axyagc",
+  "PartExtension": ".axyachk",
+  "CreatedUtc": "2026-10-19T21:37:07.6151382\u002B00:00",
+  "CompressionLevel": 9,
+  "Excluded": [],
+  "CompletedWithWarnings": false,
+  "OriginalSizeBytes": 11088036098,
+  "ArchiveSizeBytes": 4386462493,
+  "ArchiveSha256": "dbdee3d1b175265d70bd1d1221b0f22cdbfe4f99adf68a34003884761d34dc4c",
+  "ChunkSizeBytes": 52428800,
+  "PartCount": 84,
+  "Parts": [
+    {
+      "Index": 0,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0000.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "4be483d4d37b0c883a93a45e9bc416c3b0e3d30f562c39447f44b768e5d5714f"
+    },
+    {
+      "Index": 1,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0001.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "35eddbc54ff559d34f86751e218b6b9840c63f7f6776c38e3d04ac933a546926"
+    },
+    {
+      "Index": 2,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0002.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "9a12014b9fa292b8ae199e0fc5c5afc8d530bee6cfca778a649afa5ac856487e"
+    },
+    {
+      "Index": 3,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0003.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "3ed1d62379630f60df6493483deb53b78b15f4447d4965cdfb92ad52a154700d"
+    },
+    {
+      "Index": 4,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0004.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "b517a60cf934beddc3b5788af008cad3a7bec468f27d5feb12a2fbebc89cadfb"
+    },
+    {
+      "Index": 5,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0005.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "671d5fd3bec69f13c81eca54422e4e855024e4721fbfb12cec52c189b789c3c0"
+    },
+    {
+      "Index": 6,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0006.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "5718faa60b79fe252422b833007d78eb2ea9362b434a5668d77743d3d66d876a"
+    },
+    {
+      "Index": 7,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0007.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "ea8bb15f2ac4a7c0f1f3b44744298d41d0c09e98e70902959f2b05c6443d1049"
+    },
+    {
+      "Index": 8,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0008.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "b6fca6993f8aab12ec5e1213a18672594488651920a4c7127ac1606b8b8c1306"
+    },
+    {
+      "Index": 9,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0009.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "25ab2709dc2db573aac9e810f946d5140d5163066cba87aa8eb47ab71035ac93"
+    },
+    {
+      "Index": 10,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0010.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "f77648f1af55e8361d330948296d6f94b4c3aed6cb72df29e3670bdf927f939c"
+    },
+    {
+      "Index": 11,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0011.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "56bba521ed78c1adafc93c554ad246f42e99c6975a1fcc8473bc12a2a7e2c8c3"
+    },
+    {
+      "Index": 12,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0012.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "7852634c33c778d925781f5804915b37e36349917b3fd81d9351b34b198e7e10"
+    },
+    {
+      "Index": 13,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0013.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "f6b5d8b823d9810524588a450e272e04fb4d79d57ff7493d58f4103f6691fc30"
+    },
+    {
+      "Index": 14,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0014.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "d4815d5ac496ac0922689639c0121a2c292bdac15af95d7664c16200b7e6a6cf"
+    },
+    {
+      "Index": 15,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0015.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "8186d41f27457f7018897d2fc32d1f6fe9905ccfff5dc2702e69b70dab5281fc"
+    },
+    {
+      "Index": 16,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0016.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "5afa56c04eb4be1b7b2589e8ccee027d7d2b26b9c489cea7300bcd2524d0c456"
+    },
+    {
+      "Index": 17,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0017.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "afdc3a684ca959265b6895f276ecc25931559c01554c1c3ae6b1ece12e9c3efd"
+    },
+    {
+      "Index": 18,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0018.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "8471f2905fd80e20c4acb30a8a2335b739e42723bfa21ff59966e3b392498209"
+    },
+    {
+      "Index": 19,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0019.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "a161b66152cdcc7e6242c8a81e95ebffb98dfa204a8d966843877a331669ae01"
+    },
+    {
+      "Index": 20,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0020.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "fbba10b13a1e361024d0a5eb2292bf7679505649cfdce2cda1a6d920d031e4fe"
+    },
+    {
+      "Index": 21,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0021.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "140168e8d44037142520860e6d13fbb187015288d566fe74748cd8f497a23598"
+    },
+    {
+      "Index": 22,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0022.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "e587d3981af1c62f0573eaea65712e6f08b64661361d55a532e019b35bd3bb70"
+    },
+    {
+      "Index": 23,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0023.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "aaa0db1d1074cd7b155eba39ae21c181c459d4ecc7fecc59dac9a0f73d1379af"
+    },
+    {
+      "Index": 24,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0024.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "afd3cce50066d6d6128aa22cd139dc259479d612e43a9a781d2e84a0625ff99c"
+    },
+    {
+      "Index": 25,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0025.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "a840ae9ff79de9cd08fb977240b4041f184c60f68164f06077da11a2c84a462c"
+    },
+    {
+      "Index": 26,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0026.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "57c23c4242acca5ff075df1634b843801a0bf1b5c9d4341d541fc30f6431c780"
+    },
+    {
+      "Index": 27,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0027.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "d85943285dfaa092a49832dae34a123e8f97602f0a21f94f60f8fef25e8053ae"
+    },
+    {
+      "Index": 28,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0028.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "c88bac6a11098a6b1d981eb58aae9c417c9f64a5cd5e0d6232636aad0277938d"
+    },
+    {
+      "Index": 29,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0029.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "497779b1d6c8bfc1a0c2bbc5b722b1da10e59262c89c8aa2f4d4b3748c1f2d44"
+    },
+    {
+      "Index": 30,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0030.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "eff5618bd539b5e98f873c6e732dc5a2a250a3faef653d5cf5265b2459afeb1c"
+    },
+    {
+      "Index": 31,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0031.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "1865ea489073739ceea2fc22fa670e6dfb23ba63cf70252aeae289ecb60e82af"
+    },
+    {
+      "Index": 32,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0032.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "72c33350770c456d87d8ffb6e7749cacb39d87554f46a810971d35fa01f61a94"
+    },
+    {
+      "Index": 33,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0033.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "96cd8263e8698e88199938e1f87447d9d019f8d381afc4e4860d94fe2f4c0b6c"
+    },
+    {
+      "Index": 34,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0034.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "9ad43281b84ee6eaf92d4b6673528117994323f3f9593261258e97945e147526"
+    },
+    {
+      "Index": 35,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0035.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "ed0e85d35e2c65b53f160138efc9e17427dd82b32858ef44e362a4885cef2225"
+    },
+    {
+      "Index": 36,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0036.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "19a93bccc0e1c40c6a6f3b87c3279a889c5fd70c3d85a60d1a355a8903c77b2f"
+    },
+    {
+      "Index": 37,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0037.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "562a076d095ac209ddf218f2de454272e41e1942c93a2efba40ab18052984cd1"
+    },
+    {
+      "Index": 38,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0038.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "2a4b3b9c2d7034bb1c382791b75b85ed1097539642ee8e42be08e6165248d003"
+    },
+    {
+      "Index": 39,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0039.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "a59ba8848efbfe4c648b3001f1614b8e45d93277e11b941077b30d165e9ed4d0"
+    },
+    {
+      "Index": 40,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0040.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "0f4f84f5c777d74818a0ef5a8bb9a368a071619c83ab3ae6f958ad4bbac9afd4"
+    },
+    {
+      "Index": 41,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0041.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "2d10aea2e4b87c9c7001c8ed1065bf791e22c51a6572b9335783b5293da56370"
+    },
+    {
+      "Index": 42,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0042.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "c1c20228c700c77830ce551ea5d5f7278e859c5834f10b7d4cc305b74f6658c2"
+    },
+    {
+      "Index": 43,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0043.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "7ecb1375d522a197abc0ccb09efa9e3f725f26515f28dd1605888e52a658be19"
+    },
+    {
+      "Index": 44,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0044.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "03abb5eb8a415a306a0b9fde365554ad8dc6b132fda93a97fb2473361ec27c41"
+    },
+    {
+      "Index": 45,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0045.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "0278875a604282ca14a115f28086875b75ac77b23d592a9f5653827753fbab1d"
+    },
+    {
+      "Index": 46,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0046.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "96a82a2674e7d95a4dfbdadd6ee261cb9b26b4203a895052e480b1dc61424cb6"
+    },
+    {
+      "Index": 47,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0047.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "950926fbf022af5a9f2692b0098869dddc85b8542cc3f885df9b138bab26f8df"
+    },
+    {
+      "Index": 48,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0048.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "ed29e0b1d4f69b515d7625009e9cdb9400fab11fb74f279a8eb5914486aa857b"
+    },
+    {
+      "Index": 49,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0049.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "2529b11eeaabc91edf191f50df4a17d9dd1b51df491a0336be9a474ad892604b"
+    },
+    {
+      "Index": 50,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0050.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "6cb71981f988d884cb45f6f06f41eea3e4537968269c1201212ecfd8c0a42baf"
+    },
+    {
+      "Index": 51,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0051.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "a3a2adb5896aa46f74782c6f3a15edaee8260e2f6881435922305d4714320b14"
+    },
+    {
+      "Index": 52,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0052.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "87a1f5aade9dbf3af50e75311a25a6a61275ff3aa78fd7a58b88977d0d3b3754"
+    },
+    {
+      "Index": 53,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0053.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "0fd8e9940b1851c284551129c125bad4b31e8fbaefe1541d85cc3a7472512037"
+    },
+    {
+      "Index": 54,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0054.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "978a9da079373e7d4a7db33558d7baf09d11cd2cb26ecd5f92f6a2a4abb6d328"
+    },
+    {
+      "Index": 55,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0055.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "1df8946f7ba4aa0b1825d63f225ea0ba19857ffc5acb5bf68b10734e74339caf"
+    },
+    {
+      "Index": 56,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0056.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "ccad46f94951a5d6d74fe3e294f7f3a7204c9d1da970b98731aa6a2aab588868"
+    },
+    {
+      "Index": 57,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0057.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "d7f9caf42c0f6c002b627468578f0c39c82c7d69968515c3bf68b5ae3a7d6b46"
+    },
+    {
+      "Index": 58,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0058.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "00ecc4fad23ea1d1adf8e15ae5de67fcc6e90992b7eaddaccaa298e0f5b31f5b"
+    },
+    {
+      "Index": 59,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0059.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "04cc9a432f6e14431056f394de9607042ab9f14ae8bb13fef18ec30a97e90835"
+    },
+    {
+      "Index": 60,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0060.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "b250be85037eeb03e9c9bde3fb871a2e77e9d1da9e28a0737f34084174ec0e8a"
+    },
+    {
+      "Index": 61,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0061.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "12da3665dd89cedd28cef18ebcef2c2c8d7c91b297b5dc0906c113ed71660bf7"
+    },
+    {
+      "Index": 62,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0062.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "4018ab456c591ab2d5061f657d0bd65e99e5756cebdfe75bb7673e36bced39df"
+    },
+    {
+      "Index": 63,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0063.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "5a282e8637f8e178f31df1920c64f20ffd42c68264a4f5274e772207b3261b1f"
+    },
+    {
+      "Index": 64,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0064.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "b6d7cca812e31443a2e0001fb31b275e65af7cd18caf3e2a7ff841611128aa75"
+    },
+    {
+      "Index": 65,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0065.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "2ff4bc8cc3defab1736bfc36032d8c791fdc09be9524aa2e4e1f4edbdee76df4"
+    },
+    {
+      "Index": 66,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0066.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "19b61c992247376310b7795f52a52a1ab072eca828f2c323afba8e0be50584ce"
+    },
+    {
+      "Index": 67,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0067.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "86b65b9fa6ac392744eb459093a9d9d68c4f867a8e3be2236d0bbc83e059a84b"
+    },
+    {
+      "Index": 68,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0068.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "6579fe08d7f3ff0a28eaeed23172c5c2f54643d65f53eca798cb31003829f764"
+    },
+    {
+      "Index": 69,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0069.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "71ab5b1b40cb749ca33915fae2a1b57ff24ca9319517495d76730bb51d450c98"
+    },
+    {
+      "Index": 70,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0070.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "c3eacfb79b501b1d2d95041fce5da6f038fe326bbf764c0e82bfca3e166f66f1"
+    },
+    {
+      "Index": 71,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0071.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "ca91a640be4d9f2e4df76283bbb11b90cc06b66971961870902778f630ca16e9"
+    },
+    {
+      "Index": 72,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0072.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "887314c5d867912e54d6511bab17d93d1453121373083883bbeddbc874a8bcdd"
+    },
+    {
+      "Index": 73,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0073.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "0e3314f7c202f6a976239a8822f97eeaa91420d42bbaa039cb486143e4d1312b"
+    },
+    {
+      "Index": 74,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0074.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "993a3ac50afc503285b0f3179c45aa0adfa24e2b782bf89a20b9de0426e974f4"
+    },
+    {
+      "Index": 75,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0075.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "ce593df201b820ccb43bb475346005ee1ed7f5070b862d929c0c14e6c3c1b4c2"
+    },
+    {
+      "Index": 76,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0076.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "7262d079ddbcba43b5dabceca775c1248ad8ff99ee0e4b571c53dd320fd80b98"
+    },
+    {
+      "Index": 77,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0077.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "74016182119eb360b9c0626048b7e05486b658e8d102e6db76a6b190b649b340"
+    },
+    {
+      "Index": 78,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0078.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "af9bfb661fcff45cc41292322941aca9bcb3fedb32cd3fde81c2b049d06eefc7"
+    },
+    {
+      "Index": 79,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0079.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "0b4d480eecbab30201874ddc8b306e401b760b78e4d25ab511d5a026f3fa6c0c"
+    },
+    {
+      "Index": 80,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0080.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "dd3b82df92d161de45d2bd264398dd1773facb1d68e4a70a20efaa2c6a7fc0f0"
+    },
+    {
+      "Index": 81,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0081.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "56d13fb0d4927e2594d9ea870bb7f73987e8b8e30decd3b294c941b9b36463ee"
+    },
+    {
+      "Index": 82,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0082.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "5cd69403c295e3a69f9df0d76521a316bc57a6c2af40684f44fc6ad2da43463b"
+    },
+    {
+      "Index": 83,
+      "FileName": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379.p0083.axyachk",
+      "SizeBytes": 34872093,
+      "Sha256": "c471ef3d134b101b0ee94913d0eb0ea77f6483ef3adcd1a6eeedb40f46fcedd1"
+    }
+  ]
+}
