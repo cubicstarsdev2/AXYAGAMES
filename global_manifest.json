@@ -3,19 +3,6 @@
   "Repository": "cubicstarsdev2/AXYAGAMES",
   "Games": [
     {
-      "Name": "Need For Speed: Heat",
-      "IdentifierSha256": "2ecfe0c3b63acd0b7d2641a9dd02e0234e8f73335e4aedd35137165e78290c60",
-      "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/0e19f118c9eb01ab61e40b8cfd052b3a2c286bdc/games/NFSH/download_manifest.json",
-      "DownloadManifestSha256": "78c03c5034b54ffb58f95b3d662dfe347ea6f49f190add3e0002eb69420a9d94",
-      "UpdatedUtc": "2026-10-19T22:17:42.7266462\u002B00:00",
-      "Images": {
-        "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/icon.jpg",
-        "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/card.jpg",
-        "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/hero.jpg",
-        "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/logo.png"
-      }
-    },
-    {
       "Name": "Bendy and the Dark Revival",
       "IdentifierSha256": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/fe9ac0e9e71f737f24594b3b60a46d75611b9aae/games/BATDR/download_manifest.json",
@@ -26,6 +13,19 @@
         "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/card.jpg",
         "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/hero.jpg",
         "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/logo.png"
+      }
+    },
+    {
+      "Name": "Need For Speed: Heat",
+      "IdentifierSha256": "2ecfe0c3b63acd0b7d2641a9dd02e0234e8f73335e4aedd35137165e78290c60",
+      "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/6fef586862d0c29409e6c0864b37e37715e9fe4e/games/NFSH/download_manifest.json",
+      "DownloadManifestSha256": "8028dc525957a9abddc20caa360aad9ef286dac6d2b40b164cdecdfb39fe8c46",
+      "UpdatedUtc": "2026-10-19T23:24:38.4858898\u002B00:00",
+      "Images": {
+        "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/icon.jpg",
+        "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/9bc56df549c295df9aef9b841cc1c185a5da4d74/games/NFSH/images/card.jpg",
+        "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/hero.jpg",
+        "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/logo.png"
       }
     },
     {
