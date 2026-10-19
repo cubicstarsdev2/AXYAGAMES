@@ -3,6 +3,19 @@
   "Repository": "cubicstarsdev2/AXYAGAMES",
   "Games": [
     {
+      "Name": "Bendy and the Dark Revival",
+      "IdentifierSha256": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379",
+      "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/fe9ac0e9e71f737f24594b3b60a46d75611b9aae/games/BATDR/download_manifest.json",
+      "DownloadManifestSha256": "a1e6afb7ca594b6a5a98b934b4075cbc3ac42a42416220869f2641bddbc80cd6",
+      "UpdatedUtc": "2026-10-19T21:48:31.1209201\u002B00:00",
+      "Images": {
+        "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/icon.png",
+        "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/card.jpg",
+        "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/hero.jpg",
+        "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/logo.png"
+      }
+    },
+    {
       "Name": "Need For Speed: Underground",
       "IdentifierSha256": "5f4a8ea964b31a077445167b542fa031e53a0710344e1b1ed05dcbed572fdbdb",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/28540e846d374ab71f7133af20f20dad76c962e3/games/NFSU/download_manifest.json",
