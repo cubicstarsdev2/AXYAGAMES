@@ -1,0 +1,13 @@
+{
+  "SchemaVersion": 1,
+  "Repository": "cubicstarsdev2/AXYAGAMES",
+  "Games": [
+    {
+      "Name": "Need For Speed: Underground",
+      "IdentifierSha256": "5f4a8ea964b31a077445167b542fa031e53a0710344e1b1ed05dcbed572fdbdb",
+      "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/b047b9da759b1883e77bbe248a9e8b67d5e3aaef/games/NFSU/download_manifest.json",
+      "DownloadManifestSha256": "934acef1f2ba6cb7925b327218593ce0565d1547ec5bcf95d5aebf1f093271b2",
+      "UpdatedUtc": "2026-10-19T04:33:11.3442434\u002B00:00"
+    }
+  ]
+}
