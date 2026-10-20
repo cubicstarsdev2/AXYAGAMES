@@ -1,0 +1,85 @@
+{
+  "Name": "Stardew Valley",
+  "IdentifierSha256": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743",
+  "SourceDirectory": "",
+  "exec_path_local": "Stardew Valley/Stardew Valley.exe",
+  "ArchiveFormat": ".axyagc",
+  "PartExtension": ".axyachk",
+  "CreatedUtc": "2026-10-20T00:22:42.5602353\u002B00:00",
+  "CompressionLevel": 9,
+  "Excluded": [],
+  "CompletedWithWarnings": false,
+  "OriginalSizeBytes": 756019779,
+  "ArchiveSizeBytes": 541551838,
+  "ArchiveSha256": "faacb8458c7f2a8a369938b07a0751eadd029748b752a38f3bc31810d96c58b3",
+  "ChunkSizeBytes": 52428800,
+  "PartCount": 11,
+  "Parts": [
+    {
+      "Index": 0,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0000.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "9fbd9dae46fb691c17dbe595a1899318f8e70090c10f51e374688341d679b2de"
+    },
+    {
+      "Index": 1,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0001.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "459c612e982fce123b20d6e06027cd15eca68207e9e39c0ed30fd6b2bf1f0bac"
+    },
+    {
+      "Index": 2,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0002.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "96adc7c5cc6f60d9e799ce85b3b2f70a382e8c72d9d34592cc74452b197f3d56"
+    },
+    {
+      "Index": 3,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0003.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "0a17dca334d90c4bc1ad8852efe7c75362336b2a9c595c262af1b7bdcaa2269c"
+    },
+    {
+      "Index": 4,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0004.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "4d9f35217fb0f96304c8479b9b4f120a2a0f589a37eb9866dd17e57e2eeaa396"
+    },
+    {
+      "Index": 5,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0005.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "b470df4dae02348f27ef41b74635aa84577a2f6d269c0cecdf9a68cddd5b0a30"
+    },
+    {
+      "Index": 6,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0006.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "4edb2706a271efa94335ae76827ce583aa9f4a81f2e2791c63d25d3739776306"
+    },
+    {
+      "Index": 7,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0007.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "f3db5389a17a270b3863a77c3a12f882f4f726521f2f396fe7078cb9ee64e005"
+    },
+    {
+      "Index": 8,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0008.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "f97997d57d757a10e6f31a05922192cc4ccc2bab2dc564ff3faee1bad621a7ad"
+    },
+    {
+      "Index": 9,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0009.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "e4932583bc0373ea21007445b2460cec81ff03f8c7606043a6414e9dbe7cc5fc"
+    },
+    {
+      "Index": 10,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0010.axyachk",
+      "SizeBytes": 17263838,
+      "Sha256": "553adfffd52cbaeaaae195e72059248a71b764772e027e7c6ba1896d03c83246"
+    }
+  ]
+}
