@@ -1,0 +1,142 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Stardew Valley",
+  "IdentifierSha256": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743",
+  "CreatedUtc": "2026-10-20T00:22:42.5602353\u002B00:00",
+  "ArchiveFormat": ".axyagc",
+  "PartExtension": ".axyachk",
+  "OriginalSizeBytes": 756019779,
+  "ArchiveSizeBytes": 541551838,
+  "ArchiveSha256": "faacb8458c7f2a8a369938b07a0751eadd029748b752a38f3bc31810d96c58b3",
+  "ChunkSizeBytes": 52428800,
+  "PartCount": 11,
+  "CompressionLevel": 9,
+  "CompletedWithWarnings": false,
+  "Excluded": [],
+  "Repository": "cubicstarsdev2/AXYAGAMES",
+  "Branch": "axya-upload/20261020-015436-ee7f96ad",
+  "exec_path_local": "Stardew Valley/Stardew Valley.exe",
+  "OriginalManifest": {
+    "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.manifest.json",
+    "SizeBytes": 3377,
+    "Sha256": "5a35033d084a9ee045584218bebb1a11e7e2bd6d25d7ab975d762a09456ebf90",
+    "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/5b12a07efa5a1f33a16041ee5c23e50e508ed248/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.manifest.json"
+  },
+  "Parts": [
+    {
+      "Index": 0,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0000.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "9fbd9dae46fb691c17dbe595a1899318f8e70090c10f51e374688341d679b2de",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0000.axyachk"
+    },
+    {
+      "Index": 1,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0001.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "459c612e982fce123b20d6e06027cd15eca68207e9e39c0ed30fd6b2bf1f0bac",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0001.axyachk"
+    },
+    {
+      "Index": 2,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0002.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "96adc7c5cc6f60d9e799ce85b3b2f70a382e8c72d9d34592cc74452b197f3d56",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0002.axyachk"
+    },
+    {
+      "Index": 3,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0003.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "0a17dca334d90c4bc1ad8852efe7c75362336b2a9c595c262af1b7bdcaa2269c",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0003.axyachk"
+    },
+    {
+      "Index": 4,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0004.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "4d9f35217fb0f96304c8479b9b4f120a2a0f589a37eb9866dd17e57e2eeaa396",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0004.axyachk"
+    },
+    {
+      "Index": 5,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0005.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "b470df4dae02348f27ef41b74635aa84577a2f6d269c0cecdf9a68cddd5b0a30",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0005.axyachk"
+    },
+    {
+      "Index": 6,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0006.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "4edb2706a271efa94335ae76827ce583aa9f4a81f2e2791c63d25d3739776306",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0006.axyachk"
+    },
+    {
+      "Index": 7,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0007.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "f3db5389a17a270b3863a77c3a12f882f4f726521f2f396fe7078cb9ee64e005",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0007.axyachk"
+    },
+    {
+      "Index": 8,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0008.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "f97997d57d757a10e6f31a05922192cc4ccc2bab2dc564ff3faee1bad621a7ad",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0008.axyachk"
+    },
+    {
+      "Index": 9,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0009.axyachk",
+      "SizeBytes": 52428800,
+      "Sha256": "e4932583bc0373ea21007445b2460cec81ff03f8c7606043a6414e9dbe7cc5fc",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0009.axyachk"
+    },
+    {
+      "Index": 10,
+      "FileName": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0010.axyachk",
+      "SizeBytes": 17263838,
+      "Sha256": "553adfffd52cbaeaaae195e72059248a71b764772e027e7c6ba1896d03c83246",
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/c98f98e4fb0310716a09ba8f2f4e3c6bd581bf8c/games/STARDEWV/f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743.p0010.axyachk"
+    }
+  ],
+  "Images": [
+    {
+      "Kind": "icon",
+      "FileName": "icon.jpg",
+      "SizeBytes": 163333,
+      "Sha256": "7cd1b46e59305725eefb05fd5065a74a166d62a54bd206193a5ff890f87cca37",
+      "Width": 512,
+      "Height": 512,
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/icon.jpg"
+    },
+    {
+      "Kind": "card",
+      "FileName": "card.png",
+      "SizeBytes": 734835,
+      "Sha256": "68e398ea7deadd5e64e42f370c266a4da90a04fd3bdb58dfdc4d4879cc55cfe0",
+      "Width": 1600,
+      "Height": 1000,
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/card.png"
+    },
+    {
+      "Kind": "hero",
+      "FileName": "hero.png",
+      "SizeBytes": 190398,
+      "Sha256": "f714621f8ee63e3808a6288145e16cbc754c7a5a6b5ceecfc06852ab2c222589",
+      "Width": 1920,
+      "Height": 1080,
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/hero.png"
+    },
+    {
+      "Kind": "logo",
+      "FileName": "logo.png",
+      "SizeBytes": 1154429,
+      "Sha256": "8526533d6bf5bd57b97fa66a3dcfe20e475f6c61842bad987c49c7627a9a1a6c",
+      "Width": 1600,
+      "Height": 800,
+      "Url": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/logo.png"
+    }
+  ]
+}
