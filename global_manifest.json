@@ -40,6 +40,19 @@
         "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/hero.png",
         "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/logo.png"
       }
+    },
+    {
+      "Name": "Stardew Valley",
+      "IdentifierSha256": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743",
+      "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/644fe410b05c711698483069189354428e7d85c1/games/STARDEWV/download_manifest.json",
+      "DownloadManifestSha256": "6882e35c82fd91ef7ac71f58aade18e1c7a1886f9046e775a64360df04b6e1b1",
+      "UpdatedUtc": "2026-10-20T01:55:20.8426900\u002B00:00",
+      "Images": {
+        "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/icon.jpg",
+        "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/card.png",
+        "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/hero.png",
+        "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/logo.png"
+      }
     }
   ]
 }
