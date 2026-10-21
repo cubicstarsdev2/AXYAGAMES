@@ -7,65 +7,254 @@
       "IdentifierSha256": "4fcb4d7419ac3bfd44647e3867f100a5eb041936c9eb16bcc51753c6eacbe379",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/fe9ac0e9e71f737f24594b3b60a46d75611b9aae/games/BATDR/download_manifest.json",
       "DownloadManifestSha256": "a1e6afb7ca594b6a5a98b934b4075cbc3ac42a42416220869f2641bddbc80cd6",
-      "UpdatedUtc": "2026-10-19T21:48:31.1209201\u002B00:00",
+      "UpdatedUtc": "2026-10-19T21:48:31.1209201+00:00",
       "Images": {
         "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/icon.png",
         "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/card.jpg",
         "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/hero.jpg",
         "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e3e5e83f9fa43df4bdebc4d0e6c3c94a4df71469/games/BATDR/images/logo.png"
-      }
+      },
+      "Tagline": "Escape the studio. Survive the Ink Demon.",
+      "Description": "A first-person survival horror game and the sequel to Bendy and the Ink Machine. Play as Audrey as she explores a twisted animation studio, solves puzzles, fights ink-soaked enemies and does her best to stay out of sight of the ever-hunting Ink Demon on the way back to the real world.",
+      "Developer": "Joey Drew Studios",
+      "Publisher": "Joey Drew Studios",
+      "ReleaseDate": "2022-11-15",
+      "AgeRating": "ESRB T",
+      "Players": "1",
+      "Genres": [
+        "Horror",
+        "Adventure"
+      ],
+      "Localized": [
+        {
+          "Lang": "es",
+          "Tagline": "Escapa del estudio. Sobrevive al Demonio de Tinta.",
+          "Description": "Un juego de terror y supervivencia en primera persona, secuela de Bendy and the Ink Machine. Encarna a Audrey mientras recorre un estudio de animación retorcido, resuelve acertijos, se enfrenta a enemigos empapados de tinta e intenta no cruzarse con el Demonio de Tinta que la acecha en su camino de vuelta al mundo real."
+        },
+        {
+          "Lang": "fr",
+          "Tagline": "Échappez au studio. Survivez au Démon d'encre.",
+          "Description": "Un jeu d'horreur et de survie à la première personne, suite de Bendy and the Ink Machine. Incarnez Audrey, qui parcourt un studio d'animation déformé, résout des énigmes, affronte des ennemis couverts d'encre et tente d'échapper au Démon d'encre qui la traque sur le chemin du retour vers le monde réel."
+        },
+        {
+          "Lang": "de",
+          "Tagline": "Entkomm dem Studio. Überlebe den Tintendämon.",
+          "Description": "Ein Survival-Horrorspiel aus der Ich-Perspektive und der Nachfolger von Bendy and the Ink Machine. Du spielst Audrey, die ein verzerrtes Animationsstudio erkundet, Rätsel löst, gegen tintengetränkte Gegner kämpft und dem allgegenwärtigen Tintendämon auf dem Weg zurück in die echte Welt aus dem Weg geht."
+        },
+        {
+          "Lang": "pt",
+          "Tagline": "Escape do estúdio. Sobreviva ao Demônio de Tinta.",
+          "Description": "Um jogo de terror e sobrevivência em primeira pessoa, sequência de Bendy and the Ink Machine. Controle Audrey enquanto ela explora um estúdio de animação distorcido, resolve quebra-cabeças, enfrenta inimigos encharcados de tinta e tenta fugir do Demônio de Tinta que a persegue no caminho de volta ao mundo real."
+        },
+        {
+          "Lang": "it",
+          "Tagline": "Fuggi dallo studio. Sopravvivi al Demone d'Inchiostro.",
+          "Description": "Un survival horror in prima persona, seguito di Bendy and the Ink Machine. Interpreta Audrey mentre esplora uno studio di animazione distorto, risolve enigmi, affronta nemici intrisi d'inchiostro e cerca di sfuggire al Demone d'Inchiostro che la insegue sulla via del ritorno al mondo reale."
+        }
+      ]
     },
     {
       "Name": "LEGO Batman: Legacy of the Dark Knight",
       "IdentifierSha256": "14656b66a041c8af3f43c0e8d6a3c6f40dc54e14d249835602c954bee1159048",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/b0536fc022316647936c2ffb46eace56b6037f01/games/LEGOBAT_LDK/download_manifest.json",
       "DownloadManifestSha256": "bcdb0656bc64b9b31c45ab77c0c1a158b59a012596b15baaceca0f4f5e07db9b",
-      "UpdatedUtc": "2026-10-21T01:25:31.3367446\u002B00:00",
+      "UpdatedUtc": "2026-10-21T01:25:31.3367446+00:00",
       "Images": {
         "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/icon.jpg",
         "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/card.png",
         "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/hero.png",
         "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/logo.png"
-      }
+      },
+      "Tagline": "Build the legacy. Become the Dark Knight.",
+      "Description": "Embark on Bruce Wayne's journey from his origins to becoming the legendary Dark Knight in this open-world LEGO action-adventure. Explore Gotham City, master combat and stealth, solve crimes using detective skills, customize the Batcave, and command iconic Batmobiles and Batcycles. Face Gotham's most notorious supervillains and team up with Batman's allies in a story filled with DC references and classic LEGO humor. Play solo or with a friend in two-player local co-op.",
+      "Developer": "TT Games",
+      "Publisher": "Warner Bros. Games",
+      "ReleaseDate": "2026-05-22",
+      "AgeRating": "ESRB E10+",
+      "Players": "1-2",
+      "Genres": [
+        "Action-Adventure",
+        "Open world"
+      ],
+      "Localized": [
+        {
+          "Lang": "es",
+          "Tagline": "Construye el legado. Conviértete en el Caballero Oscuro.",
+          "Description": "Embárcate en el viaje de Bruce Wayne desde sus orígenes hasta convertirse en el legendario Caballero Oscuro en esta aventura de acción LEGO de mundo abierto. Explora Gotham City, domina el combate y el sigilo, resuelve crímenes usando tus habilidades detectivescas, personaliza la Batcueva y conduce los icónicos Batmóviles y Batcicletas. Enfréntate a los supervillanos más infames de Gotham y únete a los aliados de Batman en una historia repleta de referencias al universo DC y del clásico humor LEGO. Juega en solitario o con un amigo en cooperativo local para dos jugadores."
+        },
+        {
+          "Lang": "fr",
+          "Tagline": "Bâtissez votre héritage. Devenez le Chevalier noir.",
+          "Description": "Suivez le parcours de Bruce Wayne, de ses origines jusqu'à sa transformation en légendaire Chevalier noir, dans ce jeu d'action-aventure LEGO en monde ouvert. Explorez Gotham City, maîtrisez le combat et l'infiltration, résolvez des crimes grâce à vos talents de détective, personnalisez la Batcave et pilotez des Batmobiles et Batcycles emblématiques. Affrontez les super-vilains les plus redoutables de Gotham et faites équipe avec les alliés de Batman dans une histoire pleine de références à l'univers DC et d'humour LEGO. Jouez en solo ou avec un ami en coopération locale à deux joueurs."
+        },
+        {
+          "Lang": "de",
+          "Tagline": "Erschaffe dein Vermächtnis. Werde zum Dunklen Ritter.",
+          "Description": "Begleite Bruce Wayne auf seinem Weg von den Anfängen bis zum legendären Dunklen Ritter in diesem LEGO-Action-Adventure mit offener Spielwelt. Erkunde Gotham City, meistere Kämpfe und Schleicheinlagen, löse Verbrechen mit deinen Detektivfähigkeiten, gestalte die Bathöhle und fahre legendäre Batmobile und Batcycles. Stelle dich Gothams berüchtigtsten Superschurken und verbünde dich mit Batmans Verbündeten in einer Geschichte voller DC-Referenzen und klassischem LEGO-Humor. Spiele allein oder gemeinsam mit einem Freund im lokalen Koop-Modus für zwei Spieler."
+        },
+        {
+          "Lang": "pt",
+          "Tagline": "Construa seu legado. Torne-se o Cavaleiro das Trevas.",
+          "Description": "Acompanhe a jornada de Bruce Wayne desde suas origens até se tornar o lendário Cavaleiro das Trevas nesta aventura de ação LEGO em mundo aberto. Explore Gotham City, domine o combate e a furtividade, resolva crimes com suas habilidades de detetive, personalize a Batcaverna e pilote Batmóveis e Batmotos icônicos. Enfrente os supervilões mais infames de Gotham e una forças com os aliados do Batman em uma história repleta de referências ao universo DC e do clássico humor LEGO. Jogue sozinho ou com um amigo no modo cooperativo local para dois jogadores."
+        },
+        {
+          "Lang": "it",
+          "Tagline": "Costruisci la tua eredità. Diventa il Cavaliere Oscuro.",
+          "Description": "Segui il viaggio di Bruce Wayne dalle sue origini fino a diventare il leggendario Cavaliere Oscuro in questa avventura d'azione LEGO a mondo aperto. Esplora Gotham City, padroneggia il combattimento e la furtività, risolvi crimini grazie alle tue abilità investigative, personalizza la Batcaverna e guida iconiche Batmobili e Batmoto. Affronta i supercriminali più famigerati di Gotham e collabora con gli alleati di Batman in una storia ricca di riferimenti all'universo DC e del classico umorismo LEGO. Gioca in solitaria o insieme a un amico nella modalità cooperativa locale per due giocatori."
+        }
+      ]
     },
     {
       "Name": "Need For Speed: Heat",
       "IdentifierSha256": "2ecfe0c3b63acd0b7d2641a9dd02e0234e8f73335e4aedd35137165e78290c60",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/6fef586862d0c29409e6c0864b37e37715e9fe4e/games/NFSH/download_manifest.json",
       "DownloadManifestSha256": "8028dc525957a9abddc20caa360aad9ef286dac6d2b40b164cdecdfb39fe8c46",
-      "UpdatedUtc": "2026-10-19T23:24:38.4858898\u002B00:00",
+      "UpdatedUtc": "2026-10-19T23:24:38.4858898+00:00",
       "Images": {
         "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/icon.jpg",
         "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/9bc56df549c295df9aef9b841cc1c185a5da4d74/games/NFSH/images/card.jpg",
         "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/hero.jpg",
         "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/3e3a416f802cb888d4577ca9af295eb119cd3ed6/games/NFSH/images/logo.png"
-      }
+      },
+      "Tagline": "Race by day. Risk it all by night.",
+      "Description": "Palm City runs on two clocks. By day you compete in the sanctioned Speedhunters Showdown to earn cash; by night you take on illicit street races to build your reputation, with a rogue police task force on your tail. Customize your cars and decide how much risk you're willing to take.",
+      "Developer": "Ghost Games",
+      "Publisher": "Electronic Arts",
+      "ReleaseDate": "2019-11-08",
+      "AgeRating": "ESRB T",
+      "Players": "1",
+      "Genres": [
+        "Racing",
+        "Open world"
+      ],
+      "Localized": [
+        {
+          "Lang": "es",
+          "Tagline": "Compite de día. Arriésgalo todo de noche.",
+          "Description": "Palm City funciona con dos relojes. De día compites en el Speedhunters Showdown, una competición oficial, para ganar dinero; de noche te metes en carreras callejeras ilegales para ganar reputación, con una unidad policial corrupta pisándote los talones. Personaliza tus coches y decide cuánto riesgo estás dispuesto a asumir."
+        },
+        {
+          "Lang": "fr",
+          "Tagline": "Roulez le jour, jouez gros la nuit.",
+          "Description": "Palm City vit sur deux horloges. De jour, vous participez au Speedhunters Showdown, une compétition officielle, pour gagner de l'argent ; de nuit, vous courez dans des courses de rue illégales pour bâtir votre réputation, avec une unité de police corrompue aux trousses. Personnalisez vos voitures et décidez du risque que vous êtes prêt à prendre."
+        },
+        {
+          "Lang": "de",
+          "Tagline": "Tagsüber Rennen fahren. Nachts alles riskieren.",
+          "Description": "Palm City tickt nach zwei Uhren. Tagsüber trittst du bei der offiziellen Speedhunters Showdown an, um Geld zu verdienen; nachts fährst du illegale Straßenrennen, um dir einen Ruf aufzubauen – mit einer skrupellosen Polizeieinheit im Nacken. Tune deine Autos und entscheide, wie viel Risiko du eingehst."
+        },
+        {
+          "Lang": "pt",
+          "Tagline": "Corra de dia. Arrisque tudo à noite.",
+          "Description": "Palm City funciona em dois relógios. De dia você compete no Speedhunters Showdown, um evento oficial, para ganhar dinheiro; à noite encara rachas ilegais para construir sua reputação, com uma unidade policial corrupta no seu encalço. Personalize seus carros e decida quanto risco está disposto a correr."
+        },
+        {
+          "Lang": "it",
+          "Tagline": "Corri di giorno. Rischia tutto di notte.",
+          "Description": "Palm City segue due orari. Di giorno gareggi nello Speedhunters Showdown, una competizione ufficiale, per guadagnare denaro; di notte partecipi a corse di strada illegali per costruirti una reputazione, con un'unità di polizia corrotta alle calcagna. Personalizza le auto e decidi quanto rischio vuoi correre."
+        }
+      ]
     },
     {
       "Name": "Need For Speed: Underground",
       "IdentifierSha256": "5f4a8ea964b31a077445167b542fa031e53a0710344e1b1ed05dcbed572fdbdb",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/28540e846d374ab71f7133af20f20dad76c962e3/games/NFSU/download_manifest.json",
       "DownloadManifestSha256": "c1d0e9aac872625d0ff2f9dd8c7813aca2b4cc4826d4d1e693c4c71dcf793ac2",
-      "UpdatedUtc": "2026-10-19T19:51:49.0728162\u002B00:00",
+      "UpdatedUtc": "2026-10-19T19:51:49.0728162+00:00",
       "Images": {
         "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/icon.png",
         "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/card.png",
         "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/hero.png",
         "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/505888b9a7137116118df8f2836c25bd07dfdf1c/games/NFSU/images/logo.png"
-      }
+      },
+      "Tagline": "Street racing, tuned to the extreme.",
+      "Description": "Take on the night streets of Olympic City in the game that put tuning at the heart of Need for Speed. Win races to unlock performance upgrades and visual mods, from body kits to neon and sound systems, and turn a stock car into your own street machine.",
+      "Developer": "EA Black Box",
+      "Publisher": "Electronic Arts",
+      "ReleaseDate": "2003-11-17",
+      "AgeRating": "ESRB E",
+      "Players": "1",
+      "Genres": [
+        "Racing"
+      ],
+      "Localized": [
+        {
+          "Lang": "es",
+          "Tagline": "Carreras callejeras con tuning extremo.",
+          "Description": "Recorre las calles nocturnas de Olympic City en el juego que puso el tuning en el centro de Need for Speed. Gana carreras para desbloquear mejoras de rendimiento y modificaciones visuales, desde kits de carrocería hasta neones y equipos de sonido, y convierte un coche de serie en tu propia máquina de calle."
+        },
+        {
+          "Lang": "fr",
+          "Tagline": "Courses de rue, tuning poussé à l'extrême.",
+          "Description": "Sillonnez les rues nocturnes d'Olympic City dans le jeu qui a placé le tuning au cœur de Need for Speed. Gagnez des courses pour débloquer des améliorations de performance et des modifications esthétiques, des kits carrosserie aux néons en passant par les systèmes audio, et transformez une voiture de série en votre propre machine de rue."
+        },
+        {
+          "Lang": "de",
+          "Tagline": "Straßenrennen mit extremem Tuning.",
+          "Description": "Fahr durch die nächtlichen Straßen von Olympic City in dem Spiel, das Tuning ins Zentrum von Need for Speed gerückt hat. Gewinne Rennen, um Leistungs-Upgrades und optische Modifikationen freizuschalten – von Bodykits über Neon bis zu Soundanlagen – und mach aus einem Serienwagen deine eigene Streetmaschine."
+        },
+        {
+          "Lang": "pt",
+          "Tagline": "Rachas de rua com tuning extremo.",
+          "Description": "Percorra as ruas noturnas de Olympic City no jogo que colocou o tuning no centro de Need for Speed. Vença corridas para desbloquear melhorias de desempenho e modificações visuais, de kits de carroceria a neons e sistemas de som, e transforme um carro de fábrica na sua própria máquina de rua."
+        },
+        {
+          "Lang": "it",
+          "Tagline": "Corse di strada con tuning estremo.",
+          "Description": "Percorri le strade notturne di Olympic City nel gioco che ha messo il tuning al centro di Need for Speed. Vinci le gare per sbloccare potenziamenti prestazionali e modifiche estetiche, dai kit carrozzeria ai neon e agli impianti audio, e trasforma un'auto di serie nella tua macchina da strada."
+        }
+      ]
     },
     {
       "Name": "Stardew Valley",
       "IdentifierSha256": "f1de63c373195d0e52e7d8de304008e43e9268e413f0ddd0f70b8613b58cb743",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/644fe410b05c711698483069189354428e7d85c1/games/STARDEWV/download_manifest.json",
       "DownloadManifestSha256": "6882e35c82fd91ef7ac71f58aade18e1c7a1886f9046e775a64360df04b6e1b1",
-      "UpdatedUtc": "2026-10-20T01:55:20.8426900\u002B00:00",
+      "UpdatedUtc": "2026-10-20T01:55:20.8426900+00:00",
       "Images": {
         "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/icon.jpg",
         "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/card.png",
         "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/hero.png",
         "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/e4c4dadc7734ccbcc67645ba8a1ac4acdc4db011/games/STARDEWV/images/logo.png"
-      }
+      },
+      "Tagline": "Inherit the farm. Build the life you want.",
+      "Description": "You've inherited your grandfather's run-down farm in Stardew Valley. Clear the land, grow crops, raise animals, fish, mine and craft, while getting to know the townspeople and uncovering the valley's secrets at your own pace. Up to four players can share a farm in co-op.",
+      "Developer": "ConcernedApe",
+      "Publisher": "ConcernedApe",
+      "ReleaseDate": "2016-02-26",
+      "AgeRating": "ESRB E10+",
+      "Players": "1-4",
+      "Genres": [
+        "Cozy sim",
+        "RPG"
+      ],
+      "Localized": [
+        {
+          "Lang": "es",
+          "Tagline": "Hereda la granja. Construye la vida que quieras.",
+          "Description": "Has heredado la vieja granja de tu abuelo en Stardew Valley. Despeja el terreno, cultiva, cría animales, pesca, explora minas y fabrica objetos, mientras conoces a los vecinos del pueblo y descubres los secretos del valle a tu ritmo. Hasta cuatro jugadores pueden compartir una granja en cooperativo."
+        },
+        {
+          "Lang": "fr",
+          "Tagline": "Héritez de la ferme. Bâtissez la vie dont vous rêvez.",
+          "Description": "Vous avez hérité de la vieille ferme de votre grand-père à Stardew Valley. Défrichez les terres, cultivez, élevez des animaux, pêchez, explorez les mines et fabriquez des objets, tout en faisant connaissance avec les habitants et en découvrant les secrets de la vallée à votre rythme. Jusqu'à quatre joueurs peuvent partager une ferme en coopération."
+        },
+        {
+          "Lang": "de",
+          "Tagline": "Erbe die Farm. Baue dir das Leben, das du willst.",
+          "Description": "Du hast die heruntergekommene Farm deines Großvaters in Stardew Valley geerbt. Rode Land, baue Pflanzen an, halte Tiere, angle, gehe in die Minen und stelle Dinge her, lerne die Dorfbewohner kennen und entdecke die Geheimnisse des Tals in deinem eigenen Tempo. Bis zu vier Spieler können sich im Koop eine Farm teilen."
+        },
+        {
+          "Lang": "pt",
+          "Tagline": "Herde a fazenda. Construa a vida que quiser.",
+          "Description": "Você herdou a antiga fazenda do seu avô em Stardew Valley. Limpe o terreno, plante, crie animais, pesque, explore minas e fabrique itens, enquanto conhece os moradores da cidade e descobre os segredos do vale no seu ritmo. Até quatro jogadores podem dividir uma fazenda no modo cooperativo."
+        },
+        {
+          "Lang": "it",
+          "Tagline": "Eredita la fattoria. Costruisci la vita che vuoi.",
+          "Description": "Hai ereditato la vecchia fattoria di tuo nonno in Stardew Valley. Dissoda la terra, coltiva, alleva animali, pesca, esplora le miniere e crea oggetti, mentre conosci gli abitanti del paese e scopri i segreti della valle con i tuoi tempi. Fino a quattro giocatori possono condividere una fattoria in cooperativa."
+        }
+      ]
     }
   ]
 }
