@@ -54,57 +54,6 @@
       ]
     },
     {
-      "Name": "LEGO Batman: Legacy of the Dark Knight",
-      "IdentifierSha256": "14656b66a041c8af3f43c0e8d6a3c6f40dc54e14d249835602c954bee1159048",
-      "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/b0536fc022316647936c2ffb46eace56b6037f01/games/LEGOBAT_LDK/download_manifest.json",
-      "DownloadManifestSha256": "bcdb0656bc64b9b31c45ab77c0c1a158b59a012596b15baaceca0f4f5e07db9b",
-      "UpdatedUtc": "2026-10-21T01:25:31.3367446+00:00",
-      "Images": {
-        "Icon": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/icon.jpg",
-        "Card": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/card.png",
-        "Hero": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/hero.png",
-        "Logo": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/8c164c00c7f6cb954a93601a338881b28d99a3e2/games/LEGOBAT_LDK/images/logo.png"
-      },
-      "Tagline": "Build the legacy. Become the Dark Knight.",
-      "Description": "Embark on Bruce Wayne's journey from his origins to becoming the legendary Dark Knight in this open-world LEGO action-adventure. Explore Gotham City, master combat and stealth, solve crimes using detective skills, customize the Batcave, and command iconic Batmobiles and Batcycles. Face Gotham's most notorious supervillains and team up with Batman's allies in a story filled with DC references and classic LEGO humor. Play solo or with a friend in two-player local co-op.",
-      "Developer": "TT Games",
-      "Publisher": "Warner Bros. Games",
-      "ReleaseDate": "2026-05-22",
-      "AgeRating": "ESRB E10+",
-      "Players": "1-2",
-      "Genres": [
-        "Action-Adventure",
-        "Open world"
-      ],
-      "Localized": [
-        {
-          "Lang": "es",
-          "Tagline": "Construye el legado. Conviértete en el Caballero Oscuro.",
-          "Description": "Embárcate en el viaje de Bruce Wayne desde sus orígenes hasta convertirse en el legendario Caballero Oscuro en esta aventura de acción LEGO de mundo abierto. Explora Gotham City, domina el combate y el sigilo, resuelve crímenes usando tus habilidades detectivescas, personaliza la Batcueva y conduce los icónicos Batmóviles y Batcicletas. Enfréntate a los supervillanos más infames de Gotham y únete a los aliados de Batman en una historia repleta de referencias al universo DC y del clásico humor LEGO. Juega en solitario o con un amigo en cooperativo local para dos jugadores."
-        },
-        {
-          "Lang": "fr",
-          "Tagline": "Bâtissez votre héritage. Devenez le Chevalier noir.",
-          "Description": "Suivez le parcours de Bruce Wayne, de ses origines jusqu'à sa transformation en légendaire Chevalier noir, dans ce jeu d'action-aventure LEGO en monde ouvert. Explorez Gotham City, maîtrisez le combat et l'infiltration, résolvez des crimes grâce à vos talents de détective, personnalisez la Batcave et pilotez des Batmobiles et Batcycles emblématiques. Affrontez les super-vilains les plus redoutables de Gotham et faites équipe avec les alliés de Batman dans une histoire pleine de références à l'univers DC et d'humour LEGO. Jouez en solo ou avec un ami en coopération locale à deux joueurs."
-        },
-        {
-          "Lang": "de",
-          "Tagline": "Erschaffe dein Vermächtnis. Werde zum Dunklen Ritter.",
-          "Description": "Begleite Bruce Wayne auf seinem Weg von den Anfängen bis zum legendären Dunklen Ritter in diesem LEGO-Action-Adventure mit offener Spielwelt. Erkunde Gotham City, meistere Kämpfe und Schleicheinlagen, löse Verbrechen mit deinen Detektivfähigkeiten, gestalte die Bathöhle und fahre legendäre Batmobile und Batcycles. Stelle dich Gothams berüchtigtsten Superschurken und verbünde dich mit Batmans Verbündeten in einer Geschichte voller DC-Referenzen und klassischem LEGO-Humor. Spiele allein oder gemeinsam mit einem Freund im lokalen Koop-Modus für zwei Spieler."
-        },
-        {
-          "Lang": "pt",
-          "Tagline": "Construa seu legado. Torne-se o Cavaleiro das Trevas.",
-          "Description": "Acompanhe a jornada de Bruce Wayne desde suas origens até se tornar o lendário Cavaleiro das Trevas nesta aventura de ação LEGO em mundo aberto. Explore Gotham City, domine o combate e a furtividade, resolva crimes com suas habilidades de detetive, personalize a Batcaverna e pilote Batmóveis e Batmotos icônicos. Enfrente os supervilões mais infames de Gotham e una forças com os aliados do Batman em uma história repleta de referências ao universo DC e do clássico humor LEGO. Jogue sozinho ou com um amigo no modo cooperativo local para dois jogadores."
-        },
-        {
-          "Lang": "it",
-          "Tagline": "Costruisci la tua eredità. Diventa il Cavaliere Oscuro.",
-          "Description": "Segui il viaggio di Bruce Wayne dalle sue origini fino a diventare il leggendario Cavaliere Oscuro in questa avventura d'azione LEGO a mondo aperto. Esplora Gotham City, padroneggia il combattimento e la furtività, risolvi crimini grazie alle tue abilità investigative, personalizza la Batcaverna e guida iconiche Batmobili e Batmoto. Affronta i supercriminali più famigerati di Gotham e collabora con gli alleati di Batman in una storia ricca di riferimenti all'universo DC e del classico umorismo LEGO. Gioca in solitaria o insieme a un amico nella modalità cooperativa locale per due giocatori."
-        }
-      ]
-    },
-    {
       "Name": "Need For Speed: Heat",
       "IdentifierSha256": "2ecfe0c3b63acd0b7d2641a9dd02e0234e8f73335e4aedd35137165e78290c60",
       "DownloadManifestUrl": "https://raw.githubusercontent.com/cubicstarsdev2/AXYAGAMES/6fef586862d0c29409e6c0864b37e37715e9fe4e/games/NFSH/download_manifest.json",
